@@ -60,7 +60,7 @@ public class PlaceOrderForPet {
         String responseBody = response.getBody().asString();
         System.out.println("Response body is " +responseBody);
 
-        response.getTime();
+        System.out.println(response.getTime());
         response.getStatusCode();
     }
 
