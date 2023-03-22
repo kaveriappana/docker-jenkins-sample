@@ -1,0 +1,8 @@
+url=https://the-internet.herokuapp.com/
+browser= Chrome
+username = tomsmith
+password = SuperSecretPassword!
+#path="C:\\Users\\kaveri.appana\\IdeaProjects\\heroko\\resources\\chromedriver.exe"
+path=C:\\Users\\kaveri.appana\\IdeaProjects\\heroko\\resources\\chromedriver.exe
+text= kaveri
+option=Option 1

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+        -<suite parallel="tests" annotations="JDK" name="herokuapp login" verbose="1" thread-count="1">
+
+
+    -<test name="chrome">
+
+
+    -<classes>
+
+    <class name="testsuite1.Chrometest"/>
+
+</classes>
+
+</test>
+
+
+    -<test name="edge">
+
+
+    -<classes>
+
+    <class name="testsuite2.Edgetest"/>
+
+</classes>
+
+</test>
+
+</suite>
